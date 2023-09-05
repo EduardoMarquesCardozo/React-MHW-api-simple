@@ -47,13 +47,6 @@ const Armor = ({ armorPiece }: ArmorProps) => {
                     <p>x {material.quantity}</p>
                   </TRow>
                 ))}
-                {armorPiece.crafting.materials.map((material) => (
-                  <TRow key={material.item.id}>
-                    <p>{material.item.name}</p>
-                    <hr />
-                    <p>x {material.quantity}</p>
-                  </TRow>
-                ))}
               </Scroll>
             ) : (
               <h1>No Data</h1>
