@@ -4,7 +4,7 @@
 
 ### Home
 
-![image](https://github.com/EduardoMarquesCardozo/React-MHW-api-simple/assets/79146964/aa7930a2-2191-4df0-bb4b-0f287abd96f9)
+![image](https://github.com/EduardoMarquesCardozo/React-MHW-api-simple/assets/79146964/88d6da52-d9da-4f45-913a-fcf01b329c71)
 
 ## Requirements
 
