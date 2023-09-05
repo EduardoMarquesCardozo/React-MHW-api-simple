@@ -8,8 +8,7 @@ const FilterSideBar = () => {
         <h2 className="title">MH Research Center</h2>
       </Link>
       <NavBar>
-        <Link to="/armors">Armor sets</Link>
-        <Link to="/teste"></Link>
+        <Link to="/">Armor sets</Link>
       </NavBar>
     </Wrapper>
   );
