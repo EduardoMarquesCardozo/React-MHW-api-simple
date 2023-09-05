@@ -2,6 +2,10 @@
 
 ## React + TypeScript + Vite + StyledComponent + Axios
 
+### Home
+
+![image](https://github.com/EduardoMarquesCardozo/React-MHW-api-simple/assets/79146964/aa7930a2-2191-4df0-bb4b-0f287abd96f9)
+
 ## Requirements
 
 Before starting make sure you have:
